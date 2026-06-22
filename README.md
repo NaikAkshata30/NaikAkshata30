@@ -1,43 +1,48 @@
-# Hi 👋, I'm Akshata Naik
+<h1 align="center">Hi 👋, I'm Akshata Naik</h1>
 
-### 🤖 Aspiring AI/ML Engineer | 🎓 B.Tech Computer Engineering Student
+<h3 align="center">
+🤖 Aspiring AI/ML Engineer • 💡 Problem Solver • 🚀 Building Intelligent Solutions
+</h3>
 
-I'm passionate about building intelligent systems that transform data into meaningful insights and practical solutions. My interests lie at the intersection of Machine Learning, Natural Language Processing, Data Analytics, and Software Engineering.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Exploring+NLP+%26+Deep+Learning;Always+Learning+Something+New" />
+</p>
 
 ---
 
 ## 💫 About Me
 
-🔭 Currently working on Machine Learning projects, open-source contributions, and practical AI applications
+🚀 Passionate about developing intelligent systems that turn data into meaningful insights and practical solutions.
 
-🌱 Exploring Deep Learning, NLP, MLOps, and production-ready AI systems
+🔭 Currently working on Machine Learning projects, AI-powered applications, and open-source contributions.
 
-🧠 Strong foundation in Python, Data Structures & Algorithms, and Data Analysis
+🌱 Exploring Deep Learning, Natural Language Processing (NLP), MLOps, and scalable AI systems.
 
-🚀 Interested in building AI-powered products that solve real-world problems
+🧠 Strong foundations in Python, Data Structures & Algorithms, Data Analysis, and Software Development.
 
-🤝 Open to collaborating on AI/ML projects, research initiatives, and open-source contributions
+🤝 Interested in collaborating on AI/ML projects, research initiatives, and impactful open-source contributions.
 
-📚 Continuously learning through hands-on projects, technical documentation, and experimentation
-
-🎯 Seeking opportunities to apply Machine Learning and Software Engineering skills in impactful environments
+🎯 Aspiring to build technology that creates measurable real-world impact through Artificial Intelligence.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,django,git,github,vscode" />
 </p>
 
-### Machine Learning & Data Science
+### 🤖 AI / Machine Learning
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* TensorFlow
-* Jupyter Notebook
+<p align="center">
+
+📊 NumPy • Pandas • Matplotlib
+
+🧠 Scikit-Learn • TensorFlow
+
+📓 Jupyter Notebook
+
+</p>
 
 ---
 
@@ -45,48 +50,58 @@ I'm passionate about building intelligent systems that transform data into meani
 
 ### 🛒 InsightCart
 
-**AI-Powered E-Commerce Sentiment Analysis Platform**
+#### AI-Powered E-Commerce Sentiment Analysis Platform
 
-Developed a sentiment analysis system that processes customer reviews using NLP, Machine Learning, and Deep Learning techniques. The platform helps businesses understand customer feedback and identify sentiment trends through interactive visualizations and predictive models.
+InsightCart analyzes customer reviews using NLP, Machine Learning, and Deep Learning techniques to uncover customer sentiment, identify trends, and generate actionable business insights.
 
-**Tech:** Python, Pandas, Scikit-Learn, TensorFlow, Streamlit
+**Tech Stack:** Python • Pandas • Scikit-Learn • TensorFlow • Streamlit
 
 ---
 
 ### 🌍 Disaster Preparedness & Readiness Assessment System
 
-**Intelligent Disaster Risk Assessment Platform**
+#### Intelligent Risk Analysis Platform
 
-Built a Django-based web application that evaluates disaster preparedness levels, analyzes risk factors, and provides personalized recommendations. The system helps users assess readiness and improve disaster response planning through data-driven insights.
+A Django-based system that evaluates disaster preparedness, analyzes risk levels, and provides personalized recommendations to improve readiness and response planning.
 
-**Tech:** Django, Python, HTML, CSS, SQLite
+**Tech Stack:** Django • Python • HTML • CSS • SQLite
 
 ---
 
 ### ⚙️ DWSIM Process Automation
 
-**Industrial Process Simulation Automation**
+#### Industrial Process Simulation Automation
 
-Automated process simulations using Python and DWSIM to streamline reactor and distillation column analysis. Developed scripts for simulation execution, parameter manipulation, and result extraction, reducing manual effort in process engineering workflows.
+Automated process simulation workflows using Python and DWSIM for reactor and distillation column analysis, reducing manual effort and improving engineering efficiency.
 
-**Tech:** Python, DWSIM, Process Simulation
+**Tech Stack:** Python • DWSIM • Process Simulation
 
 ---
 
 ## 🎯 Current Focus
 
-* Machine Learning Engineering
-* Natural Language Processing
-* Deep Learning
-* Open Source Contributions
-* End-to-End AI Applications
+✨ Machine Learning Engineering
+
+✨ Natural Language Processing
+
+✨ Deep Learning
+
+✨ End-to-End AI Applications
+
+✨ Open Source Contributions
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+💼 LinkedIn: https://www.linkedin.com/in/akshata-naik-511823324/?skipRedirect=true
 
-💼 LinkedIn: your-linkedin-url
+📧 Email: akshatanaik525@gmail.com
 
-💻 GitHub: github.com/NaikAkshata30
+💻 GitHub: https://github.com/NaikAkshata30
+
+---
+
+<p align="center">
+✨ Building today, learning every day, and growing toward AI/ML excellence ✨
+</p>
