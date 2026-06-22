@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshata Naik</h1>
 
 <h3 align="center">
-🤖 Aspiring AI/ML Engineer • 💡 Problem Solver • 🚀 Building Intelligent Solutions
+🚀 AI/ML Enthusiast | Problem Solver | Building Intelligent Solutions
 </h3>
 
 <p align="center">
@@ -15,8 +15,6 @@
 🚀 Passionate about developing intelligent systems that turn data into meaningful insights and practical solutions.
 
 🔭 Currently working on Machine Learning projects, AI-powered applications, and open-source contributions.
-
-🌱 Exploring Deep Learning, Natural Language Processing (NLP), MLOps, and scalable AI systems.
 
 🧠 Strong foundations in Python, Data Structures & Algorithms, Data Analysis, and Software Development.
 
@@ -36,33 +34,23 @@
 
 ## 🌟 Featured Projects
 
-### 🛒 InsightCart
+### 🛒 InsightCart – AI-Powered E-Commerce Sentiment Analysis
 
-#### AI-Powered E-Commerce Sentiment Analysis Platform
+Built an NLP-powered platform that analyzes customer reviews to identify sentiment, uncover trends, and generate actionable business insights. Features Machine Learning and Deep Learning models with an interactive Streamlit dashboard.
 
-InsightCart analyzes customer reviews using NLP, Machine Learning, and Deep Learning techniques to uncover customer sentiment, identify trends, and generate actionable business insights.
+🔗 **Repository:** https://github.com/NaikAkshata30/InsightCart-Sentiment-Analysis
 
-**Tech Stack:** Python • Pandas • Scikit-Learn • TensorFlow • Streamlit
+**Tech Stack:** Python • Pandas • Scikit-Learn • TensorFlow • NLP • Streamlit
 
 ---
 
 ### 🌍 Disaster Preparedness & Readiness Assessment System
 
-#### Intelligent Risk Analysis Platform
+Developed a Django-based web application that evaluates disaster preparedness, analyzes risk levels, and provides personalized recommendations to improve emergency readiness and response planning.
 
-A Django-based system that evaluates disaster preparedness, analyzes risk levels, and provides personalized recommendations to improve readiness and response planning.
+🔗 **Repository:** https://github.com/NaikAkshata30/Disaster-Preparedness-System
 
 **Tech Stack:** Django • Python • HTML • CSS • SQLite
-
----
-
-### ⚙️ DWSIM Process Automation
-
-#### Industrial Process Simulation Automation
-
-Automated process simulation workflows using Python and DWSIM for reactor and distillation column analysis, reducing manual effort and improving engineering efficiency.
-
-**Tech Stack:** Python • DWSIM • Process Simulation
 
 ---
 
