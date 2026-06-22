@@ -94,11 +94,19 @@ Automated process simulation workflows using Python and DWSIM for reactor and di
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/akshata-naik-511823324/?skipRedirect=true
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshata-naik-511823324/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 
-📧 Email: akshatanaik525@gmail.com
+  <a href="mailto:akshatanaik525@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 
-💻 GitHub: https://github.com/NaikAkshata30
+  <a href="https://github.com/NaikAkshata30" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
 
 ---
 
