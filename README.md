@@ -29,19 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,django,git,github,vscode" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="center">
-
-📊 NumPy • Pandas • Matplotlib
-
-🧠 Scikit-Learn • TensorFlow
-
-📓 Jupyter Notebook
-
+<img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,django,git,github,vscode,anaconda" />
 </p>
 
 ---
