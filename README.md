@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Exploring+NLP+%26+Deep+Learning;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ Developed a Django-based web application that evaluates disaster preparedness, a
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akshata-naik-511823324/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -85,5 +85,5 @@ Developed a Django-based web application that evaluates disaster preparedness, a
 ---
 
 <p align="center">
-✨ Building today, learning every day, and growing toward AI/ML excellence ✨
+Turning curiosity into knowledge, knowledge into projects, and projects into impact.
 </p>
