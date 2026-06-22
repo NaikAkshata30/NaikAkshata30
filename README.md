@@ -1,53 +1,43 @@
-<h1 align="center">Hi 👋, I'm Akshata Naik</h1>
+# Hi 👋, I'm Akshata Naik
 
-<h3 align="center">🤖 Aspiring AI/ML Engineer | 💻 Problem Solver | 🎓 B.Tech Computer Engineering Student</h3>
+### 🤖 Aspiring AI/ML Engineer | 🎓 B.Tech Computer Engineering Student
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;170%2B+LeetCode+Problems+Solved;Building+Machine+Learning+Projects;Always+Learning+New+Technologies" />
-</p>
+I'm passionate about building intelligent systems that transform data into meaningful insights and practical solutions. My interests lie at the intersection of Machine Learning, Natural Language Processing, Data Analytics, and Software Engineering.
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-🎓 B.Tech Computer Engineering Student (2028)
+🔭 Currently working on Machine Learning projects, open-source contributions, and practical AI applications
 
-📍 Mumbai, India
+🌱 Exploring Deep Learning, NLP, MLOps, and production-ready AI systems
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, and Data Science
+🧠 Strong foundation in Python, Data Structures & Algorithms, and Data Analysis
 
-💻 Solved 170+ LeetCode Problems
+🚀 Interested in building AI-powered products that solve real-world problems
 
-🌱 Currently learning Deep Learning, NLP, and MLOps
+🤝 Open to collaborating on AI/ML projects, research initiatives, and open-source contributions
 
-🎯 Goal: Become an AI/ML Engineer and build impactful AI solutions
+📚 Continuously learning through hands-on projects, technical documentation, and experimentation
+
+🎯 Seeking opportunities to apply Machine Learning and Software Engineering skills in impactful environments
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,django,git,github,vscode" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+### Machine Learning & Data Science
 
-### AI / ML
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* TensorFlow
+* Jupyter Notebook
 
 ---
 
@@ -55,61 +45,48 @@
 
 ### 🛒 InsightCart
 
-AI-powered sentiment analysis platform for e-commerce customer reviews using NLP, Machine Learning, Deep Learning (LSTM), and Streamlit.
+**AI-Powered E-Commerce Sentiment Analysis Platform**
 
-### 🌍 Disaster Preparedness System
+Developed a sentiment analysis system that processes customer reviews using NLP, Machine Learning, and Deep Learning techniques. The platform helps businesses understand customer feedback and identify sentiment trends through interactive visualizations and predictive models.
 
-Django-based disaster readiness assessment platform with risk analysis and preparedness recommendations.
-
-### ⚙️ DWSIM Automation
-
-Python automation of process simulations using DWSIM for reactor and distillation column analysis.
+**Tech:** Python, Pandas, Scikit-Learn, TensorFlow, Streamlit
 
 ---
 
-## 🧩 Problem Solving
+### 🌍 Disaster Preparedness & Readiness Assessment System
 
-🏆 Solved 170+ LeetCode Problems
+**Intelligent Disaster Risk Assessment Platform**
 
-📚 Strong foundation in:
+Built a Django-based web application that evaluates disaster preparedness levels, analyzes risk factors, and provides personalized recommendations. The system helps users assess readiness and improve disaster response planning through data-driven insights.
 
-* Arrays
-* Strings
-* Linked Lists
-* Trees
-* Graphs
-* Dynamic Programming
+**Tech:** Django, Python, HTML, CSS, SQLite
 
 ---
 
-## 📈 GitHub Stats
+### ⚙️ DWSIM Process Automation
 
-![Akshata's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaikAkshata30\&show_icons=true)
+**Industrial Process Simulation Automation**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaikAkshata30\&layout=compact)
+Automated process simulations using Python and DWSIM to streamline reactor and distillation column analysis. Developed scripts for simulation execution, parameter manipulation, and result extraction, reducing manual effort in process engineering workflows.
+
+**Tech:** Python, DWSIM, Process Simulation
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-✅ 250+ LeetCode Problems
-
-✅ AI/ML Internship
-
-✅ Open Source Contributions
-
-✅ End-to-End ML Deployment Projects
+* Machine Learning Engineering
+* Natural Language Processing
+* Deep Learning
+* Open Source Contributions
+* End-to-End AI Applications
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: YOUR_LINKEDIN_URL
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
-📧 Email: YOUR_EMAIL
+💼 LinkedIn: your-linkedin-url
 
-💻 GitHub: https://github.com/NaikAkshata30
-
----
-
-<h3 align="center">⭐ Building today for the AI of tomorrow ⭐</h3>
+💻 GitHub: github.com/NaikAkshata30
