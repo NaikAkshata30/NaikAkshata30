@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshata Naik</h1>
 
 <h3 align="center">
-🚀 AI/ML Enthusiast | Problem Solver | Building Intelligent Solutions
+🚀 Building Intelligent Solutions
 </h3>
 
 <p align="center">
